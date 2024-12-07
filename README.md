@@ -34,3 +34,7 @@ Fonte: https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Cens
 4. **Localização:** Uso de coordenadas para criar um mapa da localização dos esquilos.  Existem áreas mais densamente povoadas por esquilos?  Há relação entre a localização e a cor da pelagem ou atividade?
 
 5. **Correlações entre variáveis:** Explorar possíveis correlações entre variáveis usando métodos estatísticos e matrizes de correlação.
+
+------------------------
+O dataset pode ser encontrado no link abaixo.
+https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data
