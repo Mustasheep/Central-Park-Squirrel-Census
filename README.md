@@ -8,20 +8,18 @@ Esse repositório apresenta um pouco dos resultados de meus estudos como estudan
 ![mapa](mapa.jpeg)
 Fonte: https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data
 
------------------------
 # Meu objetivo nesta pesquisa:
 
 ## Limpeza e Pré-processamento de Dados (Objetivos Iniciais):
 
-1. **Lidando com valores ausentes:** Detectar presença de valores ausentes (`null`, `NaN`, espaços em branco).
+1. **Limpeza de strings:** Isolar colunas que serão desnecessárias para o projeto.
 
-2. **Formato de data:** A coluna "Date" está no formato `MMDDYYYY`.
+2. **Lidando com valores ausentes:** Detectar presença de valores ausentes (`null`, `NaN`, espaços em branco).
 
-3. **Variáveis booleanas:** Muitas colunas são booleanas (verdadeiro/falso).
+3. **Formato de data:** A coluna "Date" está no formato `MMDDYYYY`.
 
-4. **Tratamento de coordenadas:** A coluna "Lat/Long" contém strings. Conversão necessária para um formato numérico (duas colunas separadas para latitude e longitude).
+4. **Variáveis booleanas:** Muitas colunas são booleanas (verdadeiro/falso).
 
-5. **Limpeza de strings:** Isolar colunas que serão desnecessárias para o projeto.
 
 ## II. Análise Exploratória de Dados (Objetivos Intermediários):
 
