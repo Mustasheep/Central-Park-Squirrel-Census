@@ -1,4 +1,4 @@
-# Central Park Squirrel Census
+# Central Park Squirrel Census 🐿️
 
 O objetivo é explorar padrões nas cores da pelagem, idade, atividades e localização dos esquilos, utilizando visualizações e métodos estatísticos.
 
@@ -8,7 +8,7 @@ O objetivo é explorar padrões nas cores da pelagem, idade, atividades e locali
 ![mapa](mapa.jpeg)
 Fonte: https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data
 
-# Meu objetivo nesta pesquisa:
+#📋 Meu objetivo nesta pesquisa:
 
 ## Limpeza e Pré-processamento de Dados (Objetivos Iniciais):
 
