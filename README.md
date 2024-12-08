@@ -34,5 +34,6 @@ Fonte: https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Cens
 5. **Correlações entre variáveis:** Explorar possíveis correlações entre variáveis usando métodos estatísticos e matrizes de correlação.
 
 ------------------------
-O dataset pode ser encontrado no link abaixo.
+O dataset pode ser encontrado no link abaixo 👇🏽
+
 https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data
