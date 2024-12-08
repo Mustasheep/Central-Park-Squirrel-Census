@@ -10,7 +10,7 @@ Fonte: https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Cens
 
 # 📋 Meu objetivo nesta pesquisa:
 
-## Limpeza e Pré-processamento de Dados (Objetivos Iniciais):
+## I. Limpeza e Pré-processamento de Dados (Objetivos Iniciais):
 
 1. **Limpeza de strings:** Isolar colunas que serão desnecessárias para o projeto.
 
