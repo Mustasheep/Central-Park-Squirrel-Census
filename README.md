@@ -18,18 +18,18 @@ Fonte: https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Cens
 
 3. **Formato de data:** A coluna "Date" está no formato `MMDDYYYY`.
 
-4. **Variáveis booleanas:** Muitas colunas são booleanas (verdadeiro/falso).
+4. **Variáveis booleanas:** Muitas colunas são booleanas.
 
 
 ## II. Análise Exploratória de Dados (Objetivos Intermediários):
 
-1. **Distribuição de cores de pelagem:**  visualizar a frequência de cada cor de pelagem primária e secundária.  Identificar as cores mais comuns.
+1. **Distribuição de cores de pelagem:**  visualizar a frequência de cada cor de pelagem primária e secundária. Identificar as cores mais comuns.
 
 2. **Idade dos esquilos:**  Analisar a distribuição de idade.  Há uma diferença significativa entre a proporção de esquilos adultos e jovens?
 
-3. **Atividades dos esquilos:**  Analisar a frequência de diferentes atividades (Running, Chasing, Climbing, etc.).  Há correlações entre as atividades? Quais atividades são mais comuns em esquilos adultos versus jovens?
+3. **Atividades dos esquilos:**  Analisar a frequência de diferentes atividades (Running, Chasing, Climbing, etc.). Há correlações entre as atividades? Quais atividades são mais comuns em esquilos adultos versus jovens?
 
-4. **Localização:** Uso de coordenadas para criar um mapa da localização dos esquilos.  Existem áreas mais densamente povoadas por esquilos?  Há relação entre a localização e a cor da pelagem ou atividade?
+4. **Localização:** Uso de coordenadas para criar um mapa da localização dos esquilos. Existem áreas mais densamente povoadas por esquilos? Há relação entre a localização e a cor da pelagem ou atividade?
 
 5. **Correlações entre variáveis:** Explorar possíveis correlações entre variáveis usando métodos estatísticos e matrizes de correlação.
 
