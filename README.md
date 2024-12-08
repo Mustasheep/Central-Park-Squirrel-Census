@@ -2,7 +2,7 @@
 
 O objetivo é explorar padrões nas cores da pelagem, idade, atividades e localização dos esquilos, utilizando visualizações e métodos estatísticos.
 
-- O Squirrel Census é um projeto multimídia de ciência, design e storytelling com foco no cinza oriental (Sciurus carolinensis). Eles contam esquilos e apresentam suas descobertas ao público. A tabela utilizada no meu trabalho, contém dados de esquilos para cada um dos 3.023 avistamentos, incluindo coordenadas de localização, idade, cor primária e secundária da pelagem, elevação, atividades, comunicações e interações entre esquilos e com humanos.
+- O Squirrel Census é um projeto multimídia de ciência, design e storytelling. Eles contam esquilos e apresentam suas descobertas ao público. A tabela utilizada no meu trabalho, contém dados de esquilos para cada um dos 3.023 avistamentos, incluindo coordenadas de localização, idade, cor primária e secundária da pelagem, elevação, atividades, comunicações e interações entre esquilos e com humanos.
 
 -----------------------
 ![mapa](mapa.jpeg)
