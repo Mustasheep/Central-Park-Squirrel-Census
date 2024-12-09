@@ -14,7 +14,7 @@ Fonte: https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Cens
 
 1. **Limpeza de strings:** Isolar colunas que serão desnecessárias para o projeto.
 
-2. **Lidando com valores ausentes:** Detectar presença de valores ausentes (`null`, `NaN`, espaços em branco).
+2. **Lidando com valores ausentes:** Detectar presença de valores nulos ou constantes.
 
 3. **Variáveis booleanas:** Muitas colunas são booleanas.
 
@@ -27,7 +27,7 @@ Fonte: https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Cens
 
 3. **Atividades dos esquilos:**  Analisar a frequência de diferentes atividades (Running, Chasing, Climbing, etc.). Há correlações entre as atividades? Quais atividades são mais comuns em esquilos adultos versus jovens?
 
-4. **Correlações entre variáveis:** Explorar possíveis correlações entre variáveis usando métodos estatísticos e matrizes de correlação.
+4. **Correlações entre variáveis:** Explorar possíveis correlações entre variáveis usando matrizes de correlação.
 
 5. **Localização:** Uso de coordenadas para criar um mapa da localização dos esquilos. Existem áreas mais densamente povoadas por esquilos? Há relação entre a localização e a cor da pelagem ou atividade?
 
