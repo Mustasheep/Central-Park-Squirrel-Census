@@ -16,9 +16,7 @@ Fonte: https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Cens
 
 2. **Lidando com valores ausentes:** Detectar presença de valores ausentes (`null`, `NaN`, espaços em branco).
 
-3. **Formato de data:** A coluna "Date" está no formato `MMDDYYYY`.
-
-4. **Variáveis booleanas:** Muitas colunas são booleanas.
+3. **Variáveis booleanas:** Muitas colunas são booleanas.
 
 
 ## II. Análise Exploratória de Dados (Objetivos Intermediários):
@@ -29,9 +27,9 @@ Fonte: https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Cens
 
 3. **Atividades dos esquilos:**  Analisar a frequência de diferentes atividades (Running, Chasing, Climbing, etc.). Há correlações entre as atividades? Quais atividades são mais comuns em esquilos adultos versus jovens?
 
-4. **Localização:** Uso de coordenadas para criar um mapa da localização dos esquilos. Existem áreas mais densamente povoadas por esquilos? Há relação entre a localização e a cor da pelagem ou atividade?
+4. **Correlações entre variáveis:** Explorar possíveis correlações entre variáveis usando métodos estatísticos e matrizes de correlação.
 
-5. **Correlações entre variáveis:** Explorar possíveis correlações entre variáveis usando métodos estatísticos e matrizes de correlação.
+5. **Localização:** Uso de coordenadas para criar um mapa da localização dos esquilos. Existem áreas mais densamente povoadas por esquilos? Há relação entre a localização e a cor da pelagem ou atividade?
 
 ------------------------
 O dataset pode ser encontrado no link abaixo 👇🏽
