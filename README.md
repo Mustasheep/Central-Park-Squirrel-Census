@@ -6,7 +6,7 @@ O objetivo é explorar padrões nas cores da pelagem, idade, atividades e locali
 
 -----------------------
 ![mapa](mapa.jpeg)
-_Esquilos no mapa do Central Parque._
+_Esquilos no mapa de Central Parque._
 
 # 📋 Meu objetivo nesta pesquisa:
 
