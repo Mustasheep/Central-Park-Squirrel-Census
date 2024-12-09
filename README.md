@@ -6,7 +6,7 @@ O objetivo é explorar padrões nas cores da pelagem, idade, atividades e locali
 
 -----------------------
 ![mapa](mapa.jpeg)
-Fonte: https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data
+_Esquilos no mapa do Central Parque._
 
 # 📋 Meu objetivo nesta pesquisa:
 
