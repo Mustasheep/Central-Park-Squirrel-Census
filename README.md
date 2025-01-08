@@ -1,8 +1,10 @@
 # Central Park Squirrel Census 🐿️
 
-O objetivo é explorar padrões nas cores da pelagem, idade, atividades e localização dos esquilos, utilizando visualizações e métodos estatísticos.
+O objetivo deste repositório é realizar uma análise exploratória dos dados sobre o censo de esquilos do Central Park no ano de 2018, especificamente no mês de outrubro.
 
-- O Squirrel Census é um projeto multimídia de ciência, design e storytelling. Eles contam esquilos e apresentam suas descobertas ao público. A tabela utilizada no meu trabalho, contém dados de esquilos para cada um dos 3.023 avistamentos, incluindo coordenadas de localização, idade, cor primária e secundária da pelagem, elevação, atividades, comunicações e interações entre esquilos e com humanos.
+O Squirrel Census é um projeto multimídia de ciência, design e storytelling. Eles contam esquilos e apresentam suas descobertas ao público. A tabela utilizada no meu trabalho, contém dados de esquilos para cada um dos 3.023 avistamentos, incluindo coordenadas de localização, idade, cor primária e secundária da pelagem, elevação, atividades, comunicações e interações com humanos e entre eles mesmos.
+
+O dataset pode ser encontrado no link a seguir: https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data
 
 -----------------------
 ![mapa](mapa.jpeg)
@@ -32,6 +34,3 @@ _Esquilos no mapa de Central Parque._
 5. **Localização:** Uso de coordenadas para criar um mapa da localização dos esquilos. Existem áreas mais densamente povoadas por esquilos? Há relação entre a localização e a cor da pelagem ou atividade?
 
 ------------------------
-O dataset pode ser encontrado no link abaixo 👇🏽
-
-https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data
