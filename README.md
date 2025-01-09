@@ -10,27 +10,40 @@ O dataset pode ser encontrado no link a seguir: https://data.cityofnewyork.us/En
 ![mapa](mapa.jpeg)
 _Esquilos no mapa de Central Parque._
 
-# 📋 Meu objetivo nesta pesquisa:
+## Objetivos:
 
-## I. Limpeza e Pré-processamento de Dados (Objetivos Iniciais):
+- Limpeza de strings: Isolar colunas que serão desnecessárias para o projeto.
 
-1. **Limpeza de strings:** Isolar colunas que serão desnecessárias para o projeto.
+- Lidando com valores ausentes: Detectar presença de valores nulos ou constantes.
 
-2. **Lidando com valores ausentes:** Detectar presença de valores nulos ou constantes.
+- Variáveis booleanas: Muitas colunas são booleanas.
 
-3. **Variáveis booleanas:** Muitas colunas são booleanas.
+- Distribuição de cores de pelagem: Visualizar a frequência de cada cor de pelagem primária e secundária. Identificar as cores mais comuns.
+
+- Idade dos esquilos: Analisar a distribuição de idade.  Há uma diferença significativa entre a proporção de esquilos adultos e jovens?
+
+- Atividades dos esquilos: Analisar a frequência de diferentes atividades (Running, Chasing, Climbing, etc.). Há correlações entre as atividades? Quais atividades são mais comuns em esquilos adultos versus jovens?
+
+- Correlações entre variáveis: Explorar possíveis correlações entre variáveis usando matrizes de correlação.
+
+- Localização: Uso de coordenadas para criar um mapa da localização dos esquilos. Existem áreas mais densamente povoadas por esquilos? Há relação entre a localização e a cor da pelagem ou atividade?
 
 
-## II. Análise Exploratória de Dados (Objetivos Intermediários):
+## Considerações finais:
 
-1. **Distribuição de cores de pelagem:**  visualizar a frequência de cada cor de pelagem primária e secundária. Identificar as cores mais comuns.
+- **Distribuição de Cores de Pelagem:** A cor de pelagem `Gray` é predominante entre os esquilos, seguida por `Gray` com `Cinnamon` e `Gray` com `White`. As demais cores aparecem com menor frequência.
 
-2. **Idade dos esquilos:**  Analisar a distribuição de idade.  Há uma diferença significativa entre a proporção de esquilos adultos e jovens?
 
-3. **Atividades dos esquilos:**  Analisar a frequência de diferentes atividades (Running, Chasing, Climbing, etc.). Há correlações entre as atividades? Quais atividades são mais comuns em esquilos adultos versus jovens?
+- **Aparição dos Esquilos por Turno:** Há um aumento noturno na população de esquilos adultos, enquanto a maioria dos esquilos juvenis permanece no parque durante todo o dia.
 
-4. **Correlações entre variáveis:** Explorar possíveis correlações entre variáveis usando matrizes de correlação.
 
-5. **Localização:** Uso de coordenadas para criar um mapa da localização dos esquilos. Existem áreas mais densamente povoadas por esquilos? Há relação entre a localização e a cor da pelagem ou atividade?
+- **Atividades dos Esquilos:** `Foraging` e `Eating` são as atividades mais comuns, evidenciando a busca por alimento como comportamento principal. `Running` e `Chasing` também são observados com frequência, sugerindo interações sociais e comportamentos de fuga.
 
-------------------------
+
+- **Correlações entre Atividades:** Pode-se afirmar que existe uma correlação fraca entre `Climbing` e `Foraging` , ou seja, se um esquilo estiver fugindo, algumas das vezes ele escala em algum lugar.
+
+
+- **Atividades por Idade:** Existe uma diferença significativa nas taxas de consumo entre adultos e juvenis, com maior frequência de `Eating` entre os juvenis.
+
+
+- **Localização:** A distribuição geográfica das cores da pelagem dos esquilos apresenta um padrão simétrico, com agrupamentos de combinações de cores específicas em determinadas áreas.
